@@ -1,6 +1,6 @@
 # FCM Notification for Android 13 & 14 Supported in Sketchware Pro
 
-![FCM Notification](https://i.ibb.co.com/V2KF0cP/Yellow-and-Black-Modern-Attractive-You-Tube-Thumbnail.png)  <!-- Replace with the actual path of your image -->
+![FCM Notification](https://i.ibb.co.com/hRzqZCB/Yellow-and-Black-Modern-Attractive-You-Tube-Thumbnail.png)  <!-- Replace with the actual path of your image -->
 
 ## Overview
 
