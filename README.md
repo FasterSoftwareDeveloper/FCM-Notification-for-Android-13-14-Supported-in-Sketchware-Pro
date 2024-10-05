@@ -28,8 +28,8 @@
    - Add your Android app in the [Firebase Console](https://console.firebase.google.com/).
    - Download the `google-services.json` file and place it in the `app/` directory.
 
-2. **Add Dependencies**:
-   Add the following dependencies to your `build.gradle` file:
+2. **Add Local Library**:
+   Add the following Local library to you sketchware this pro project:
 
    ```groovy
    implementation 'com.google.code.gson:gson:2.11.0' // Gson library for JSON handling
